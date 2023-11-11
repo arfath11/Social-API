@@ -13,7 +13,7 @@ This project is built using the following technologies:
 
 - **Render:** A cloud platform used for hosting and deploying the Spring Boot application.
 
-- The Neo4j database is deployed on an AWS EC2 instance. You can find the database dump file in the `neo4j_dump` directory for reference.
+- The Neo4j database is deployed on an AWS EC2 instance. You can find the database dump file called  `neo4j_dump` in root dir for reference.
 
   **Note:** The Render instance hosting this API may spin down due to inactivity. If you experience slow loading, please be patient as it restarts.
 
