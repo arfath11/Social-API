@@ -59,3 +59,7 @@ The base URL for the API is [https://social-api-2c6s.onrender.com/social](https:
 **Method:** `GET`  
 **Example:** `/social/all`
 
+## Databasee 
+<img width="887" alt="Screenshot 2023-11-11 at 7 27 08 AM" src="https://github.com/arfath11/Social-API/assets/74487575/aa3cf8cb-3386-40bd-8675-f35a32189321">
+
+
